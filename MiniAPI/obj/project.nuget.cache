@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RMFA3bFesgR1nOz50Pw5kTrQjqmsoEmqfXW4dddCI5E098YXFyk5gqp29fpD5Z/LXQ+Qvi3skiKZFr9dkP0nOg==",
+  "dgSpecHash": "ghy6xkD9si/Q8Yff90TRTNghKkkU1H4ABO+18aMFOA2+8S6BIJ1ET7NLPOrOuGrBCepPluZm/sNmCc27xiyFdg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
+  "projectFilePath": "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erlandsson.simon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\erlandsson.simon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

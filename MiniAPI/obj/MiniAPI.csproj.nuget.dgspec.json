@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj": {}
+    "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj": {
+    "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
+        "projectUniqueName": "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
         "projectName": "MiniAPI",
-        "projectPath": "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
+        "projectPath": "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\MiniAPI.csproj",
         "packagesPath": "C:\\Users\\erlandsson.simon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\obj\\",
+        "outputPath": "C:\\Users\\erlandsson.simon\\Documents\\Programering_2\\MiniAPI\\MiniAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erlandsson.simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
